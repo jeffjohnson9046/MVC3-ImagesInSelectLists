@@ -30,15 +30,15 @@ namespace MVC3.ImagesInDropdownLists.Controllers
         }
 
         [HttpPost]
-        public JsonResult Create(CreateContestantViewModel newReservation)
+        public ActionResult Create(CreateContestantViewModel newContestant)
         {
             if (ModelState.IsValid)
             {
-                var employee = Mapper.Map<CreateContestantViewModel, Contestant>(newReservation);
+                var employee = Mapper.Map<CreateContestantViewModel, Contestant>(newContestant);
                 this._contestantRepository.Add(employee);
             }
 
-            return Json("Oh joy!  You've signed up for our Extreme Shark Wrestling Competition!", JsonRequestBehavior.AllowGet);
+            return View("Success", newContestant);
         }
 
 

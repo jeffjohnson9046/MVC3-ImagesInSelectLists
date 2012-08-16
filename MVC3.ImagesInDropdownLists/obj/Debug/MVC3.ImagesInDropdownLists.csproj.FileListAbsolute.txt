@@ -1,9 +1,0 @@
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\bin\MVC3.ImagesInDropdownLists.dll
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\bin\MVC3.ImagesInDropdownLists.pdb
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\bin\AutoMapper.dll
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\bin\EntityFramework.dll
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\bin\AutoMapper.xml
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\bin\EntityFramework.xml
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\obj\Debug\ResolveAssemblyReference.cache
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\obj\Debug\MVC3.ImagesInDropdownLists.dll
-C:\Development\Git Repositories\MVC3.ImagesInDropdownLists\MVC3.ImagesInDropdownLists\obj\Debug\MVC3.ImagesInDropdownLists.pdb
